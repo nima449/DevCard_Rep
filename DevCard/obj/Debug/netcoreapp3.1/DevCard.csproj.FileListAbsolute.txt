@@ -11,11 +11,6 @@ E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\D
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.TagHelpers.output.cache
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.RazorCoreGenerate.cache
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.RazorTargetAssemblyInfo.cache
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.RazorTargetAssemblyInfo.cs
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\staticwebassets\DevCard.StaticWebAssets.Manifest.cache
@@ -107,3 +102,4 @@ E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\D
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.dll
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.pdb
 E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\DevCard.genruntimeconfig.cache
+E:\D\2 C# Web Course Learning\MyPro\DevCardPro\DevCard\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
